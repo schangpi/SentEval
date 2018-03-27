@@ -16,7 +16,7 @@ import data
 # Set PATHs
 PATH_TO_SENTEVAL = '../'
 PATH_TO_DATA = '../data/senteval_data'
-PATH_TO_GLOVE = 'glove/glove.840B.300d.txt'
+PATH_TO_GLOVE = '/data/word_vectors/glove.840B.300d.txt'
 
 # import SentEval
 sys.path.insert(0, PATH_TO_SENTEVAL)
